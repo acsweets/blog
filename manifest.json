@@ -1,11 +1,11 @@
 {
-    "name": "demo",
-    "short_name": "demo",
+    "name": "peony",
+    "short_name": "peony",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "牡丹之爱，宜乎众矣",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
